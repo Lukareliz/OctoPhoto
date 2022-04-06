@@ -129,3 +129,12 @@ footer h2{
         width: 100vw;
     }
 }
+
+@media screen and (min-width: 667px){
+    .row{
+        display: flex;
+        justify-content: center;
+        flex-wrap: nowrap;
+    }
+
+}
